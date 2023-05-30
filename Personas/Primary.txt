@@ -1,0 +1,124 @@
+Type: Primary
+Name: Sara Tanase
+Date of birth: 12/03/1997
+Gender: Female
+Location Iasi,Romania
+Work place: Carrefour Marketing Manager
+University: Facultatea de Economie și Administrarea Afacerilor Iasi
+
+
+Main Points:
+Experience with certain products: Sara has used various travel-related applications in the past to plan and organize her trips. She appreciates applications that offer a comprehensive set of features, such as updated schedules, audio and visual guides, and directions to Points of Interest. She prefers applications that are intuitive and user-friendly, allowing her to easily navigate through different features.
+
+Dislikes about certain aspects: Sara dislikes applications that have cluttered interfaces with excessive information and complicated navigation. She finds it frustrating when applications lack real-time updates or provide inaccurate information. Additionally, she is not fond of applications that require excessive manual input or have a slow and unresponsive performance.
+
+Disabilities relevant to our research: Sara does not have any specific disabilities that impact her use of the mobile application. However, it is essential to ensure that the user interface is accessible and inclusive for individuals with visual impairments or motor disabilities.
+
+Working environment: Sara's working environment is fast-paced, and as a marketing manager, she often needs to multitask and manage her time efficiently. She frequently uses her mobile device while on the go and needs an application that can seamlessly integrate into her busy lifestyle.
+
+Social connections: Sara values social connections and enjoys interacting with other members of the travel group. She wants a mobile application that facilitates communication among group members through features like group chats and individual messaging.
+
+User's goals: Sara's primary goal is to have a stress-free and well-organized trip experience. She wants the mobile application to simplify the trip planning process, provide accurate information and updates, and ensure efficient communication with group members. Sara aims to create a memorable and enjoyable experience for everyone in the group by utilizing the application's features effectively.
+
+Goals:
+Practical Goals:
+
+Efficient Trip Planning: Sara wants to efficiently plan the itinerary for the group trip, including scheduling activities, exploring points of interest, and mapping out directions. She aims to save time and effort by using the mobile application to streamline the planning process.
+
+Seamless Communication: Sara's practical goal is to have effective communication with group members throughout the trip. She wants to easily coordinate meeting points, share updates and important information, and facilitate group discussions or individual chats through the application.
+
+Timely Reminders and Organization: Sara aims to stay organized during the trip by utilizing the mobile application's timers and alarms for each location. She wants to receive timely reminders for activities, ensuring that the group doesn't miss any scheduled events or sightseeing opportunities.
+
+Personal Goals:
+
+Memorable Experiences: Sara's personal goal is to create memorable experiences for herself and other group members. She wants to use the mobile application to discover unique points of interest, access audio and visual guides that enhance the cultural and historical understanding of the destinations, and find hidden gems that make the trip special.
+
+Smooth Group Dynamics: Sara values positive group dynamics and aims to foster a sense of camaraderie and collaboration among the group members. Her personal goal is to use the application to facilitate group interactions, encourage shared experiences, and create a supportive and enjoyable environment for everyone involved.
+
+Business Goals:
+Since Sara is a marketing manager, her business goals may not directly apply to the group travel experience. However, it's worth considering the potential benefits that the mobile application can bring to businesses involved in the tourism industry, such as:
+
+Increased Customer Satisfaction: A user-friendly and efficient mobile application can enhance the overall customer satisfaction of group tourists. This, in turn, can benefit businesses by receiving positive reviews, recommendations, and repeat bookings.
+
+Improved Brand Image: If the mobile application provides a seamless and enjoyable user experience, it can contribute to building a positive brand image for the businesses associated with the group trip. This can lead to increased trust and credibility among potential customers.
+
+Enhanced Customer Engagement: The mobile application's features, such as audio and visual guides, can help businesses engage with customers on a deeper level, offering insights, recommendations, and storytelling that enhance their experience and create a connection with the brand.
+
+It's important to note that while these business goals indirectly align with Sara's interests as a user, her primary focus is on personal and practical goals related to the trip experience.
+
+Frustrations and Pain Points:
+UI, Interaction, User Experience:
+
+Cluttered Interface: Sara finds it difficult to navigate and use the mobile application when the interface is cluttered with excessive information, icons, or buttons. It hampers her ability to quickly find the desired features or access relevant information.
+
+Complex Navigation: If the application has a convoluted navigation structure or lacks clear organization, Sara may struggle to find specific features or move between different sections of the app. It slows down her ability to complete tasks efficiently.
+
+Lack of Intuitive Design: Sara prefers applications with intuitive designs that guide her through the user interface and make it easy to understand how to interact with different elements. When an application lacks intuitive design principles, she finds it frustrating and time-consuming to figure out how to use it effectively.
+
+Dislikes relevant to the research:
+
+Inaccurate or Outdated Information: Sara dislikes mobile applications that provide inaccurate or outdated information about schedules, points of interest, or directions. It leads to confusion and undermines her confidence in the reliability of the application.
+
+Lack of Real-Time Updates: If the application fails to provide real-time updates on changes in schedules, closures of attractions, or other relevant information, Sara finds it challenging to adjust plans accordingly. It can disrupt the group's itinerary and cause frustration.
+
+Disabilities:
+Sara does not have any specific disabilities that impact her use of the mobile application. However, it is crucial to ensure that the application is accessible and inclusive for individuals with visual impairments or motor disabilities. Clear and adjustable font sizes, color contrast options, and support for assistive technologies can improve the usability for users with disabilities.
+
+Unreliability of the product:
+
+Technical Issues: Sara experiences frustration when the mobile application is unreliable due to frequent crashes, freezing, or other technical issues. It disrupts her workflow and hampers her ability to access essential features or information.
+
+Lack of Stability: If the application exhibits inconsistencies or unpredictability in its performance, such as slow loading times or inconsistent responsiveness, Sara finds it challenging to rely on the product for timely updates or efficient communication.
+
+Difficulties in completing tasks:
+
+Complicated Task Execution: When the application presents complex or convoluted workflows to complete tasks, Sara may face difficulties in executing them efficiently. It may involve multiple steps or unclear instructions, making it harder for her to accomplish tasks quickly and accurately.
+Problems with the product: slowness, hard to use, no feedback provided:
+
+Slowness and Lag: Sara finds it frustrating when the application operates slowly, causing delays in loading screens or response times. It disrupts her workflow and overall user experience.
+
+Poor Usability: If the mobile application is hard to use due to confusing layouts, unintuitive interactions, or hidden features, Sara encounters difficulties in performing tasks smoothly. It hampers her ability to navigate the application and find the desired information or features quickly.
+
+Lack of Feedback: Sara appreciates receiving feedback or confirmation when she performs actions within the application. If the product lacks appropriate feedback, such as success messages or error notifications, she may feel uncertain about the status of her actions and encounter difficulties in understanding whether tasks have been completed successfully or not.
+
+
+Detailed Description:
+Background: Sara is a seasoned traveler who loves exploring new destinations and immersing herself in different cultures. She has been on several group trips and understands the challenges of coordinating activities and staying organized while traveling with a diverse group of people. As a marketing manager, she values efficiency and user-friendly interfaces. Sara often takes charge of organizing the itinerary and ensuring that everyone in the group has a memorable experience.
+
+Scenarios:
+Scenario 1: Trip Planning and Coordination
+
+When: Sara is planning a group trip to a popular tourist destination with her friends.
+How: She uses the mobile application to research attractions, create a detailed itinerary, and schedule activities for each day.
+With whom: Sara shares the itinerary with her friends through the application and collaborates with them to make necessary adjustments or additions.
+Main Points: Efficiently plan the trip, collaborate with friends, and create a comprehensive itinerary.
+Goals: Save time in researching and organizing the trip, ensure everyone is on the same page with the itinerary.
+Frustrations & Pain Points: Cluttered interface, complex navigation, and lack of real-time updates.
+End Points: A finalized and well-organized itinerary shared with the group.
+Scenario 2: Communication and Updates
+
+When: Sara and her group of friends are exploring a new city and want to stay connected during the trip.
+How: They use the mobile application's group chat feature to communicate about meeting points, share updates, and discuss any changes in plans.
+With whom: Sara communicates with her friends within the group chat and occasionally has individual chats for private conversations.
+Main Points: Seamless communication, real-time updates, and efficient group coordination.
+Goals: Facilitate smooth communication among group members, ensure everyone is informed about any changes or updates.
+Frustrations & Pain Points: Poor usability, lack of feedback, and unreliable performance.
+End Points: Effective communication and coordination among the group members throughout the trip.
+Scenario 3: Audio and Visual Guides
+
+When: Sara and her friends are exploring a historical site with significant cultural value.
+How: They use the mobile application's audio and visual guides to learn about the site's history, architecture, and cultural significance.
+With whom: Sara and her friends listen to the audio guide together and share interesting facts or observations.
+Main Points: Access to informative audio and visual guides, enhanced cultural and historical understanding.
+Goals: Make the most out of the visit to the historical site, deepen knowledge about its significance.
+Frustrations & Pain Points: Inaccurate or outdated information, complicated task execution.
+End Points: Enriched knowledge about the historical site and a memorable exploration experience.
+Scenario 4: Timers and Alarms
+
+When: Sara and her group are visiting multiple attractions in a theme park.
+How: They set timers and alarms in the mobile application for each attraction to ensure they stick to the schedule.
+With whom: Sara and her group members rely on the timers and alarms collectively to stay on track.
+Main Points: Timely reminders, efficient time management, and adherence to the schedule.
+Goals: Avoid missing attractions or experiencing delays, maintain an organized and punctual itinerary.
+Frustrations & Pain Points: Unreliable product performance, lack of stability, and difficulties in completing tasks.
+End Points: Smooth and well-timed transitions between attractions, ensuring an optimized and enjoyable visit.

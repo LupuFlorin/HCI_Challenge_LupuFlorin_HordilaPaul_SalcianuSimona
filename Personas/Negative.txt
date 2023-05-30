@@ -1,0 +1,89 @@
+Type: Negative
+Name: Maria Popescu
+Age: 75
+Location: Bucharest, Romania
+Financial Situation: Limited income, unable to afford a smartphone
+
+Main Points:
+Experience with certain products:
+
+Limited experience with modern technology and smartphones.
+Reliance on traditional methods such as physical maps and guidebooks.
+Dislikes about certain aspects:
+
+Financial constraints preventing the purchase of a smartphone.
+Challenges in accessing updated travel information and real-time updates.
+Difficulty in staying connected with other travelers and seeking assistance.
+Disabilities relevant to our research:
+
+No specific disabilities mentioned in the persona description.
+Working environment:
+
+Retirement, no longer actively employed.
+Limited income affecting purchasing power.
+Social connections:
+
+Potential feelings of isolation due to limited access to communication channels.
+Desire to connect with fellow travelers and share experiences.
+The user's goals:
+
+Access travel information, including updated schedules, audio and visual guides, and directions to points of interest.
+Improve trip planning and navigation.
+Engage with fellow travelers and seek support.
+Stay informed and updated about events and changes during trips.
+
+Goals:
+Practical Goals:
+
+Access updated schedules and directions to points of interest to navigate effectively during trips.
+Obtain reliable and real-time travel information to plan and adjust itineraries.
+Personal Goals:
+
+Enhance the travel experience by exploring new places and enjoying cultural attractions.
+Connect with fellow travelers, share experiences, and foster a sense of community.
+Overcome the limitations of financial constraints and enjoy fulfilling trips within available means.
+
+Frustrations and Pain Points:
+Difficulties the user has with the product:
+
+UI, Interaction, User Experience:
+
+Challenges in navigating the user interface due to limited technological knowledge.
+Difficulty understanding and using the features of the application.
+Lack of familiarity with modern technology interfaces.
+Dislikes relevant to the research:
+
+Inability to afford a smartphone, preventing access to the mobile application.
+Dependence on traditional methods of obtaining travel information.
+Frustration with the limitations imposed by financial constraints.
+Disabilities:
+
+No specific disabilities mentioned in the persona description.
+Unreliability of the product:
+
+Lack of access to real-time updates and information about points of interest.
+Dependence on alternative sources for trip planning and navigation.
+Difficulties in completing tasks:
+
+Challenges in managing trip-related tasks without the assistance of the application.
+Reliance on traditional methods that may be time-consuming and less efficient.
+Problems with the product: slowness, hard to use, no feedback provided:
+
+Frustration with the slowness or lag in the application's performance.
+Difficulty in using the application due to limited technological knowledge.
+Lack of feedback or guidance within the application, making it harder to navigate and complete tasks.
+
+Detailed Description
+Maria Popescu is a retired elderly woman living in Bucharest, Romania. She has always had a deep love for traveling and exploring new places. However, due to her limited income, she struggles to afford modern technology, including a smartphone. Despite her financial constraints, Maria still yearns for a way to access travel information and make the most out of her trips.
+
+Scenarios:
+Scenario 1: Trip Planning Assistance
+Main Points: Maria wants to plan a trip to a popular tourist destination.
+Goals: Access travel information, improve trip planning.
+Frustrations & Pain Points: Limited access to updated schedules, lack of real-time information.
+
+Scenario Description:
+Maria, despite not having a smartphone, visits a local travel agency to gather information about her upcoming trip to a popular tourist destination. The travel agency employee uses the ergonomic desktop application to assist Maria. They input Maria's desired travel dates, preferences, and budget into the application. The application generates a detailed itinerary with updated schedules, audio and visual guides, and directions to points of interest. The employee prints out the itinerary and provides Maria with a physical map and guidebook. Maria leaves the travel agency excited and better prepared for her trip.
+
+End Point:
+Maria leaves the travel agency with a comprehensive printed itinerary, a physical map, and a guidebook to aid her during her trip.
